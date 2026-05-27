@@ -1,7 +1,7 @@
 # Geosphere Weather App
 
 Abschlussprojekt - für meinen WIFI Python-Diplomkurs 
-Diese Streamlit soll dazu dienen, Daten vom Geosphere Austria Datahub abzurufen. Die Messwerte werden lokal persistent in einer SQLite-DB abgespeichert. Mit Streamlit wird im Webbrowser ein UI erzeugt, mit dem folgende Features möglich sind. 
+Diese Streamlit soll dazu dienen, Daten vom Geosphere Austria Datahub abzurufen. Die Messwerte werden lokal, persistent in einer SQLite-DB abgespeichert. Mit Streamlit wird im Webbrowser ein UI erzeugt, mit dem folgende Features möglich sind. 
 
 ## Features
 
