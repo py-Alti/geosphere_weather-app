@@ -19,15 +19,10 @@ Diese Streamlit soll dazu dienen, Daten vom Geosphere Austria Datahub abzurufen.
 Das Projekt besteht aus folgenden Komponenten:
 
 - `app.py` → Streamlit UI
-- `pipeline/` → Datenimport & Verarbeitung
+- `pipeline.py` → Datenimport & Verarbeitung
 - `db.py` → SQLite-Datenbankzugriff
 - `services.py` → Hilfsfunktionen
 - `config.py` → zentrale Konfiguration
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/py-Alti/geosphere_weather-app.git
-cd geosphere_weather-app
-
+## Requirements
 pip install -r requirements.txt
