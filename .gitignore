@@ -1,0 +1,18 @@
+# Virtuelle Python-Umgebung
+.weather_app/
+weather_app/.weather_app/
+.venv/
+venv/
+
+# Python-Cache
+__pycache__/
+*.pyc
+
+# Editor-Einstellungen
+.vscode/
+
+# Sicherung des alten, verschachtelten Git-Repositorys
+weather_app/.git_alt/
+
+# Sicherungskopien
+*.bak_alt
